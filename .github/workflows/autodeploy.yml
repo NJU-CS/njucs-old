@@ -19,9 +19,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 10
+      # checkout
+      - name: checkout
+        uses: actions/checkout@v2
       # npm install
       - name: npm install and build
-        uses: actions/checkout@v2
         run: |	  
           gitbook install
           gitbook build
