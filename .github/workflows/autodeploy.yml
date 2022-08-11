@@ -22,6 +22,7 @@ jobs:
       # npm install
       - name: npm install and build
         run: |
+          script /dev/null
           screen -r 614601.pts-1.njucs
           cd njucs/njucs
           echo -e ‘\003’	  
