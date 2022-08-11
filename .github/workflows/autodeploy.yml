@@ -21,8 +21,7 @@ jobs:
           node-version: 10
       # npm install
       - name: npm install and build
-        run: |
-          cd ~/njucs/njucs	  
+        run: |	  
           gitbook install
           gitbook build
         env:
@@ -30,7 +29,7 @@ jobs:
       # Deploy
       - name: Deploy
         run: |
-          cd ~/njucs/njucs
-          sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'|xargs kill -9
+          var=`sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'`
+          if [ ! -n "$var" ]; then echo "no poccess" else kill -9 ${var}  
           gitbook serve &
           echo "successfully!"
