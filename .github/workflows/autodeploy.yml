@@ -22,7 +22,9 @@ jobs:
       # npm install
       - name: npm install and build
         run: |
-          npm install -g gitbook-cli
+	  screen -r 614601.pts-1.njucs
+	  cd njucs/njucs
+	  echo -e ‘\003’	  
           gitbook install
           gitbook build
         env:
@@ -30,5 +32,7 @@ jobs:
       # Deploy
       - name: Deploy
         uses: easingthemes/ssh-deploy@v2.0.7
-      - run: gitbook serve 
-
+      - run: |
+	  gitbook serve 
+	  echo -e '\001'
+	  echo -e 'd'
