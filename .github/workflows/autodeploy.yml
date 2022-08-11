@@ -33,6 +33,6 @@ jobs:
       - name: Deploy
         run: |
           var=`sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'`
-          if [ ! -n "$var" ]; then echo "no poccess" else kill -9 ${var}  
+          if [ ! -n "$var" ]; then echo "no poccess" else kill -9 ${var} fi
           gitbook serve &
           echo "successfully!"
