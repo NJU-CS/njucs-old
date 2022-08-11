@@ -29,5 +29,5 @@ jobs:
           CI: true
       # Deploy
       - name: Deploy
-      - run: |
+        run: |
           gitbook serve 
