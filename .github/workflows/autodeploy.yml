@@ -30,4 +30,6 @@ jobs:
       # Deploy
       - name: Deploy
         run: |
-          gitbook serve 
+          cd ~/njucs/njucs
+          sudo kill -9 $(lsof -i:4000 -t)
+          gitbook serve &
