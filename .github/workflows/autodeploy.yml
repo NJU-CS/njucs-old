@@ -22,7 +22,7 @@ jobs:
       # npm install
       - name: npm install and build
         run: |
-          cd njucs/njucs	  
+          cd ~/njucs/njucs	  
           gitbook install
           gitbook build
         env:
