@@ -11,7 +11,7 @@ jobs:
   # 第一个任务 build
   build:
     # 选择虚拟机
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     # 步骤
     steps:
       # 使用 node:10
