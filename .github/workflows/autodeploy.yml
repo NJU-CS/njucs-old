@@ -21,6 +21,7 @@ jobs:
           node-version: 10
       # npm install
       - name: npm install and build
+        uses: actions/checkout@v2
         run: |	  
           gitbook install
           gitbook build
