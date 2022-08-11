@@ -1,0 +1,37 @@
+{
+  "title": "NJUCSer成长手册",
+  "language": "zh-hans",
+  "author": "yxz",
+  "plugins": [
+    "-search",
+    "-lunr",
+    "-sharing",
+    "-livereload",
+    "github",
+    "chart",
+    "todo",
+    "graph",
+    "puml",
+    "katex",
+    "code",
+    "ace",
+    "flexible-alerts",
+    "chapter-fold",
+    "anchor-navigation-ex",
+    "theme-comscore",
+    "hints"
+  ],
+  "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "showGoTop": true
+    },
+    "github": {
+      "url": "https://github.com/changanyyy/njucs"
+    },
+    "edit-link": {
+      "base": "https://github.com/changanyyy/njucs",
+      "label": "Edit This Page"
+    }
+  }
+}
