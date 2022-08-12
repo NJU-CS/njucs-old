@@ -19,7 +19,8 @@
     "chapter-fold",
     "anchor-navigation-ex",
     "theme-comscore",
-    "hints"
+    "hints",
+    "pageview-count"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
