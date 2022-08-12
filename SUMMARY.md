@@ -6,7 +6,7 @@
 * [考研](kao-yan/README.md)
   * [什么是考研](kao-yan/shi-mo-shi-kao-yan.md)
   * [Untitled](kao-yan/untitled.md)
-* [保研](bao-yan/README.md)
+* [保研（推免）](bao-yan/README.md)
   * [什么是保研](bao-yan/shi-mo-shi-bao-yan.md)
   * [近几年政策](bao-yan/jin-ji-nian-zheng-ce.md)
   * [保研本校](bao-yan/bao-yan-ben-xiao.md)
