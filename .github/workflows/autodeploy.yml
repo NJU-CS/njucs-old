@@ -1,5 +1,5 @@
 # main.yml
-name: deploy to aliyun
+name: deploy to huaweicloud
 # 触发方式
 on: 
   push: # 触发动作
@@ -16,25 +16,20 @@ jobs:
     # 选择虚拟机
     runs-on: self-hosted
     # 步骤
-    steps:
-      # 使用 node:10
+    steps:     
+      - name: checkout
+        uses: actions/checkout@v3      
+
       - name: use Node.js 10
         uses: actions/setup-node@v1
         with:
           node-version: 10
-      # checkout
-      - name: checkout
-        uses: actions/checkout@v2
-      # npm install
-      - name: npm install and build
-        run: |	  
-          gitbook install
-          gitbook build
-        env:
-          CI: true
-      # Deploy
-      #- name: Deploy
-      #  run: |
-      #    var=`sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'`
-      #    if [ ! -n "$var" ]; then echo "no poccess"; else kill -9 ${var}; fi
-      #    gitbook serve
+
+      - name: install gitbook
+        run: npm install -g gitbook-cli
+
+      - name: install plugins
+        run: gitbook install
+      
+      - name: build page
+        run: gitbook build
