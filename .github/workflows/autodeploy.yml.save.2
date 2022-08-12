@@ -6,9 +6,6 @@ on:
     branches:
       # 触发分支
       - main 
-  pull_request:
-
-
 # 任务
 jobs:
   # 第一个任务 build
@@ -22,19 +19,18 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 10
-      # checkout
-      - name: checkout
-        uses: actions/checkout@v2
       # npm install
       - name: npm install and build
+      : actions/checkout@v2
         run: |	  
           gitbook install
           gitbook build
         env:
           CI: true
       # Deploy
-      #- name: Deploy
-      #  run: |
-      #    var=`sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'`
-      #    if [ ! -n "$var" ]; then echo "no poccess"; else kill -9 ${var}; fi
-      #    gitbook serve
+      - name: Deploy
+        run: |
+          var=`sudo netstat -pl| sudo grep 4000|awk -F/ '{print $1}'|awk '{print $7}'`
+          if [ ! -n "$var" ]; then echo "no poccess" else kill -9 ${var}  
+          gitbook serve &
+          echo "successfully!"
