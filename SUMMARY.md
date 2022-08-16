@@ -15,4 +15,4 @@
 * [关于找工作和实习](zhao-gong-zuo-shi-xi.md)
 * [关于转专业（包括转入和转出）](guan-yu-zhuan-zhuan-ye-bao-kuo-zhuan-ru-he-zhuan-chu.md)
 * [随便说说](sui-bian-shuo-shuo.md)
-* [贡献者&致谢](gong-xian-zhe-zhi-xie.md)
+* [贡献文章](gong-xian-wen-zhang.md)
