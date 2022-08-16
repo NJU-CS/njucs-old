@@ -1,9 +1,10 @@
 # Table of contents
 
 * [前言](README.md)
-* [开始新的征程（适于大一）](da-yi-ru-xue.md)
+* [新的征程——大一](da-yi-ru-xue.md)
 * [关于课程（全年级）](shang-ke.md)
 * [关于方向（大二下）](guan-yu-fang-xiang-da-er-xia.md)
+* [分享技术](fen-xiang-ji-shu.md)
 * [关于考研](kao-yan/README.md)
   * [什么是考研](kao-yan/shi-mo-shi-kao-yan.md)
   * [Untitled](kao-yan/untitled.md)
@@ -15,5 +16,5 @@
 * [关于找工作和实习](zhao-gong-zuo-shi-xi.md)
 * [关于转专业（包括转入和转出）](guan-yu-zhuan-zhuan-ye-bao-kuo-zhuan-ru-he-zhuan-chu.md)
 * [随便说说](sui-bian-shuo-shuo.md)
-* [贡献文章](gong-xian-wen-zhang/README.md)
+* [贡献文章](gong-xian-zhe-zhi-xie.md)
   * [贡献者](gong-xian-wen-zhang/gong-xian-zhe.md)
