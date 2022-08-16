@@ -4,7 +4,7 @@
 
 任何想要为学弟学妹答疑解惑的同学（不限年级），都可以向[这个github仓库](https://github.com/changanyyy/njucs)提交Pull Request（最好提前联系一下我们）
 
-您可以在编辑 [NJUCS-FAQs](https://github.com/NJUCS-Peers-Tutors/NJUCS-FAQs) 后，提交 Pull Request 请求修改。
+您可以先对仓库进行fork，在本地进行编辑之后，提交Pull Request。
 
 ### 直接参与 <a href="#zhi-jie-can-yu" id="zhi-jie-can-yu"></a>
 
