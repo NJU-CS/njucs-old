@@ -2,7 +2,7 @@
 
 ## How to Contribute <a href="#how-to-contribute" id="how-to-contribute"></a>
 
-任何想要为学弟学妹答疑解惑的同学（不限年级），都可以向[这个github仓库](https://github.com/changanyyy/njucs)提交Pull Request（最好提前联系一下我们）。
+任何想要为学弟学妹答疑解惑的同学（不限年级），都可以向[这个github仓库](https://github.com/changanyyy/njucs)提交Pull Request（请提前联系一下[我们](gong-xian-wen-zhang.md#cang-ku-guan-li-yuan)）。
 
 在贡献文章之后，我们会给予你丰富的志愿时长（如果你需要的话）。
 
@@ -104,3 +104,12 @@ $ gitbook init
 ```
 
 本页面使用了 flexible alerts 插件，关于其语法可见 [Gitbook plugin: Flexible Alerts](https://www.npmjs.com/package/gitbook-plugin-flexible-alerts)
+
+## 仓库管理员
+
+下面是项目目前的管理员，如果想贡献文章请与我们联系。
+
+| 管理员姓名 | 邮箱                        | QQ         |
+| ----- | ------------------------- | ---------- |
+| 尹熙喆   | chester.yinxz@gmail.com   | 1263522794 |
+| 沈天杰   | lawrshen@smail.nju.edu.cn | 1325670454 |
