@@ -31,10 +31,10 @@ Script started, file is test.txt
 
 常用参数选项如下：
 
-- `-t`：指定输出录制的时间
-- `-a`：指定录制存储文件，并以追加方式在文件后面添加新内容
-- `-c`：直接执行命令，而非交互式的shell
-- `-q`：让script命令以静默方式运行
+* `-t`：指定输出录制的时间
+* `-a`：指定录制存储文件，并以追加方式在文件后面添加新内容
+* `-c`：直接执行命令，而非交互式的shell
+* `-q`：让script命令以静默方式运行
 
 更多参数可以使用`man script`命令查看。
 
@@ -56,9 +56,9 @@ scriptreplay test.timefile test.txt
 
 其他常用参数如下：
 
-- `-t`：指定时序文件
-- `-s`：指定script的终端输出文件
-- `-d`：指定播放倍速
+* `-t`：指定时序文件
+* `-s`：指定script的终端输出文件
+* `-d`：指定播放倍速
 
 更多参数同样可以输入`man scriptreplay`查看。
 
@@ -66,8 +66,7 @@ scriptreplay test.timefile test.txt
 
 上述过程动图演示如下：
 
-![动图演示](/.gitbook/assets/terminal-playback-1.gif)
-![fork](/.gitbook/assets/fork.jpg)
+![动图演示](../../.gitbook/assets/terminal-playback-1.gif)
 
 ## 回放分享
 
