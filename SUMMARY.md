@@ -1,8 +1,9 @@
 # Table of contents
 
-* [前言](README.md)
+* [NJUCS生存手册](README.md)
 * [新的征程——大一](da-yi-ru-xue.md)
-* [关于课程（全年级）](shang-ke.md)
+* [关于课程（全年级）](shang-ke/README.md)
+  * [课程资料](shang-ke/ke-cheng-zi-liao.md)
 * [关于方向（大二下）](guan-yu-fang-xiang-da-er-xia.md)
 * [分享技术](fen-xiang-ji-shu.md)
   * [Linux基本操作](fen-xiang-ji-shu/Linux.md)
