@@ -1,8 +1,11 @@
 # Table of contents
 
 * [NJUCS生存手册](README.md)
-* [新的征程——大一](da-yi-ru-xue.md)
-* [关于课程（全年级）](shang-ke/README.md)
+* [新的征程——大一](da-yi-ru-xue/README.md)
+  * [我要做什么](da-yi-ru-xue/wo-yao-zuo-shi-mo.md)
+  * [怎么玩](da-yi-ru-xue/zen-mo-wan.md)
+  * [学生组织推广](da-yi-ru-xue/xue-sheng-zu-zhi-tui-guang.md)
+* [关于课程（全年级）](shang-ke.md)
   * [课程资料](shang-ke/ke-cheng-zi-liao.md)
 * [关于方向（大二下）](guan-yu-fang-xiang-da-er-xia.md)
 * [分享技术](fen-xiang-ji-shu.md)
