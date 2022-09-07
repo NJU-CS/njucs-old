@@ -20,7 +20,8 @@
     "anchor-navigation-ex",
     "theme-comscore",
     "hints",
-    "pageview-count"
+    "pageview-count",
+    "advanced-emoji"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
