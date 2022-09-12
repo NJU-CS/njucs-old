@@ -22,6 +22,7 @@
 | 19级-王毓琦  |         |                        |
 | 19级-尹熙喆  | 保研      | 1263522794@qq.com      |
 | 19级-张峻   | 互联网大厂求职 | junzhang00@foxmail.com |
+| 19级-叶家升 | 计算机系统方向 | yejiasheng@smail.nju.edu.cn |
 
 ## 负责人
 
