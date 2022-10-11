@@ -14,7 +14,7 @@ description: Road to Internship
 
 我当时是希望在大三（22年）寒假和暑假能各找一段实习，所以寒假投递的是日常，暑假投递的是暑期实习。寒假的时间线可以参考我的博客，简单来说是12月初拿到offer，1月入职，预计3月底离职，实习三个月时间。因为当时所在的组比较缺人，所以我投递的岗位是带有转正机会的，并且对方也不介意我实习3个月。根据我学长的经验（仅供参考），即便jd建议实习6个月，也可以先投递尝试，因为实习生是可以任意时间提出离职而没有其他法律后果的，所以可以干到不想干了就跑路。
 
-21年12月，我在微信公众号上看到谷歌开始了暑期实习招聘，微软开始了提前批。尽管当时驾照科二+期末复习忙的我晕头转向，我也还是在跨年夜当前晚上改好了简历投递。因为想要中奖就必须先买彩票，看到机会就得要争取。并且微软的提前批免了笔试，还不影响正式批投递，多一次机会，何乐不为？事实证明我是正确的，因为我在字节实习初期不忙的时候就完成了微软的面试并且顺利的在过年前拿到offer，年后开学+字节实习新手期结束的情况下，再准备面试会变得非常手忙脚乱。这两家外企的面经可以参考我的博客[https://august0830.github.io/post/155d23b4/](https://august0830.github.io/post/155d23b4/)。
+21年12月，我在微信公众号上看到谷歌开始了暑期实习招聘，微软开始了提前批。尽管当时驾照科二+期末复习忙的我晕头转向，我也还是在跨年夜当前晚上改好了简历投递。因为想要中奖就必须先买彩票，看到机会就得要争取。并且微软的提前批免了笔试，还不影响正式批投递，多一次机会，何乐不为？事实证明我是正确的，因为我在字节实习初期不忙的时候就完成了微软的面试并且顺利的在过年前拿到offer，年后开学+字节实习新手期结束的情况下，再准备面试会变得非常手忙脚乱。这两家外企的面经可以参考[我的博客](https://august0830.github.io/post/155d23b4/)。
 
 投递策略上，一般客户端的难度会低于后端，并且如果实在缺人，会欢迎0基础的同学，我第一份实习就是在0基础的情况下投递的。做了一段时间发现我可能还是更想做后端的方向，于是在找暑期的时候就尽可能的争取了后端的方向。客户端的实习在我看来成为了我的跳板，毕竟第一份实习总是最难的，有了经验以后会顺利很多。同理，第一份实习也可以从中小厂开始，一步步积累履历。另外，尽可能的往自己偏好的方向靠，比如我希望去外企工作并接触英文工作环境，所以当时在同时看到西瓜直播内推的情况下，选择了TikTok。
 
@@ -61,7 +61,7 @@ description: Road to Internship
   * 其次，项目上写上课设就可以了。不需要觉得课设很水不好意思写。毕竟除了课设就没东西了（大佬请忽略本条吐槽）。水不水其实取决于你的下一步准备。如果你对自己的课设非常有信心，非常好，请在老师允许的情况下把代码开源，并且记得在简历中附上链接。
   * 如果想要开始找实习，建议好好装扮一下自己的GitHub、LinkedIn等主页并且在简历上附上链接。如果有自己的博客当然更好，记得也要附上。说不定面试官会看。这是非常好的展示自己的机会。
   * 简历写好以后可以请学长学姐帮忙检查优化一下。光自己觉得写得好是不够的，得让其他人也能通过简历看到你的亮点与优势。
-  * 如果想要投递外企，还需要准备一份英文简历，可以多上LinkedIn学习他人的简历写法。小心语法问题。 可以参照CMU等国外名校的简历写作指导 CMU[https://www.cmu.edu/career/resource-library/resumes-and-cover-letters/index.htm](https://www.cmu.edu/career/resource-library/resumes-and-cover-letters/index.htm), UCLA[https://career.ucla.edu/alumni/resumes-and-cover-letters](https://career.ucla.edu/alumni/resumes-and-cover-letters), Columbia University[https://www.careereducation.columbia.edu/resources/sample-resumes](https://www.careereducation.columbia.edu/resources/sample-resumes)
+  * 如果想要投递外企，还需要准备一份英文简历，可以多上LinkedIn学习他人的简历写法。小心语法问题。 可以参照CMU等国外名校的简历写作指导： [CMU](https://www.cmu.edu/career/resource-library/resumes-and-cover-letters/index.htm), [UCLA](https://career.ucla.edu/alumni/resumes-and-cover-letters), [Columbia University](https://www.careereducation.columbia.edu/resources/sample-resumes)
 * 如何基于简历准备面试
   * 课设在有工作经验的人眼里可能都差不多，所以不需要太担心，反正大家都一样菜（大佬请同样忽略），而且作为没有实习经历的学生，对方的要求不会太高。所以关键是通过问答展现出你的潜质和目前具有的代码能力。
   * 对于自己的课设，不妨问问自己以下问题：
