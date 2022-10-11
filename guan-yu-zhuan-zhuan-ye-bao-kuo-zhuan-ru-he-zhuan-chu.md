@@ -6,7 +6,7 @@
 
 ### 19届大一转专业笔试
 
-![PNG](\images\考试题.png)
+![PNG](https://github.com/images/%E8%80%83%E8%AF%95%E9%A2%98.png)
 
 19届大一转专业受疫情影响，只有笔试和面试，上面是笔试题目。
 
