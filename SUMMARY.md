@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NJUCS生存手册](README.md)
+* [NJUCS成长手册](README.md)
 * [新的征程——大一](da-yi-ru-xue/README.md)
   * [我要做什么](da-yi-ru-xue/wo-yao-zuo-shi-mo.md)
   * [怎么玩](da-yi-ru-xue/zen-mo-wan.md)
