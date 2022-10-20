@@ -105,11 +105,21 @@ $ gitbook init
 
 本页面使用了 flexible alerts 插件，关于其语法可见 [Gitbook plugin: Flexible Alerts](https://www.npmjs.com/package/gitbook-plugin-flexible-alerts)
 
+如果你想要在本地运行gitbook，需要输入以下指令：
+
+```
+$ gitbook install
+$ gitbook build
+$ gitbook serve
+```
+
+这样你就可以在浏览器上输入[localhost:4000](https://localhost:4000)来浏览gitbook网页了。
+
 ## 仓库管理员
 
 下面是项目目前的管理员，如果想贡献文章请与我们联系。
 
 | 管理员姓名 | 邮箱                        | QQ         |
 | ----- | ------------------------- | ---------- |
-| 尹熙喆   | chester.yinxz@gmail.com   | 1263522794 |
+| 尹熙喆   | 1263522794@qq.com         | 1263522794 |
 | 沈天杰   | lawrshen@smail.nju.edu.cn | 1325670454 |
