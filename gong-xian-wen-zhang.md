@@ -79,7 +79,7 @@ $ git remote -v
 
 ```bash
 $ git fetch upstream main #把最新的main分支搞到本地的upstream/main分支（不是本地main）
-$ git checkout master # 本地切换到 main 分支
+$ git checkout main # 本地切换到 main 分支
 $ git merge upstream/master # 将来自 upstream/main 的更改合并到本地 master 分支中
 ```
 
