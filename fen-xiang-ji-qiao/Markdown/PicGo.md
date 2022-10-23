@@ -10,7 +10,7 @@ PicGo支持拖拽图片文件上传和剪贴板图片上传。完成后会复制
 
 PicGo官网：https://picgo.github.io/PicGo-Doc/zh/guide/#%E5%BA%94%E7%94%A8%E6%A6%82%E8%BF%B0
 
-下载过程和使用教材见官网。
+下载过程和使用教程见官网。
 
 ## 图床推荐
 
