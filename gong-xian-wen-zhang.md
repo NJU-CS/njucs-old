@@ -79,7 +79,7 @@ $ git remote -v
 
 ```bash
 $ git fetch upstream main #把最新的main分支搞到本地的upstream/main分支（不是本地main）
-$ git checkout master # 本地切换到 main 分支
+$ git checkout main # 本地切换到 main 分支
 $ git merge upstream/master # 将来自 upstream/main 的更改合并到本地 master 分支中
 ```
 
@@ -105,11 +105,21 @@ $ gitbook init
 
 本页面使用了 flexible alerts 插件，关于其语法可见 [Gitbook plugin: Flexible Alerts](https://www.npmjs.com/package/gitbook-plugin-flexible-alerts)
 
+如果你想要在本地运行gitbook，需要输入以下指令：
+
+```
+$ gitbook install
+$ gitbook build
+$ gitbook serve
+```
+
+这样你就可以在浏览器上输入[localhost:4000](https://localhost:4000)来浏览gitbook网页了。
+
 ## 仓库管理员
 
 下面是项目目前的管理员，如果想贡献文章请与我们联系。
 
 | 管理员姓名 | 邮箱                        | QQ         |
 | ----- | ------------------------- | ---------- |
-| 尹熙喆   | chester.yinxz@gmail.com   | 1263522794 |
+| 尹熙喆   | 1263522794@qq.com         | 1263522794 |
 | 沈天杰   | lawrshen@smail.nju.edu.cn | 1325670454 |
