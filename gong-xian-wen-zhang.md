@@ -10,9 +10,7 @@
 
 ### 直接参与 <a href="#zhi-jie-can-yu" id="zhi-jie-can-yu"></a>
 
-您可以在 [Issue](https://github.com/NJUCS-Peers-Tutors/NJUCS-FAQs/issues) 区直接回答同学提出的问题，本项目维护者会为您整理并通知您。
-
-如果您就某一问题/话题有经验、分享、想说的话，可以直接在 Issue 区新建问题，我们会为您整合。
+如果您就某一问题/话题有经验、分享、想说的话，可以直接在 [Issue](https://github.com/NJU-CS/njucs/issues) 区新建问题，我们会为您整合。
 
 ## Gitbook 安装 <a href="#gitbook-an-zhuang" id="gitbook-an-zhuang"></a>
 
