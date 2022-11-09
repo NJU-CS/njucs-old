@@ -43,6 +43,7 @@
   * [随便说说](bao-yan/sui-bian-shuo-shuo.md)
 * [关于找工作和实习](zhao-gong-zuo-shi-xi/README.md)
   * [🖥 互联网大厂求职](zhao-gong-zuo-shi-xi/hu-lian-wang-da-chang-qiu-zhi/README.md)
+    * [面试刷题](zhao-gong-zuo-shi-xi/hu-lian-wang-da-chang-qiu-zhi/mian-shi-shua-ti.md)
     * [互联网实习分享](zhao-gong-zuo-shi-xi/hu-lian-wang-da-chang-qiu-zhi/hu-lian-wang-shi-xi-fen-xiang.md)
 * [关于转专业（包括转入和转出）](guan-yu-zhuan-zhuan-ye-bao-kuo-zhuan-ru-he-zhuan-chu.md)
 * [随便说说](sui-bian-shuo-shuo.md)
