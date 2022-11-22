@@ -26,7 +26,7 @@ jobs:
           node-version: 10
 
       - name: install gitbook
-        run: npm install -g gitbook-cli
+        run: npm install -g gitbook-cli --registry=registry.npmmirror.com
 
       - name: install plugins
         run: gitbook install
