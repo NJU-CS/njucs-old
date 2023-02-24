@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [NJUCS成长手册](README.md)
 * [新的征程——大一](da-yi-ru-xue/README.md)
@@ -30,6 +30,10 @@
     * [录制终端回放](fen-xiang-ji-shu/Linux/terminal-playback.md)
     * [包管理器换源](fen-xiang-ji-shu/Linux/switch-apt-sources.md)
     * [FAQs](fen-xiang-ji-shu/Linux/FAQs.md)
+  * [Linux的安装和基本配置](fen-xiang-ji-shu/linux-install.md)
+    * [Why](fen-xiang-ji-shu/linux-install/why.md)
+    * [What](fen-xiang-ji-shu/linux-install/what.md)
+    * [How](fen-xiang-ji-shu/linux-install/how.md)
   * [Markdown写作](fen-xiang-ji-shu/markdown/README.md)
     * [Mathpix+Markdown记录公式](fen-xiang-ji-shu/markdown/mathpix.md)
     * [Mathpix+PicGo记录图片](fen-xiang-ji-shu/markdown/picgo.md)
